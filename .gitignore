@@ -1,0 +1,6 @@
+data/
+drivers_with_gps_and_sl_problems/
+good_data/
+rides_of_drivers.csv
+*.csv
+
